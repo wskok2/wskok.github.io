@@ -8,4 +8,4 @@ This site is still under construction and some of the information might not up t
 
 1. [Coursera course work repo](https://github.com/wskok2/AI-and-ML)
 2. [Handy powershell script](https://github.com/wskok2/powershell)
-3. [Shell script tricks](https://github.com/wskok2/wskok2.github.io/bash_script.md)
+3. [Shell script tricks](https://wskok2.github.io/bash_script.md)
