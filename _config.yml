@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Vincent Kok's Blog
+description: Working as ML Ops solution architect, I like to work on new technology. The main purpose of this blog is to record down the work i have done and serve as my personal wiki.
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
-email: #
+email: vincent.kok@gmail.com
 
 
 highlighter: rouge
