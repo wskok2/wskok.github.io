@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gradfolio
 
 responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
@@ -33,3 +34,6 @@ Once you have personalised and tested the site, you can create a new repo, uploa
 MIT License
 
 [![JekyllThemes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com)
+=======
+# wskok2.github.io
+>>>>>>> 2177092c429a047386ae063b65534a5c0ddfee48
