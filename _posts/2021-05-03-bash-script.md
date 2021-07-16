@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Handy Bash Script Reference"
+---
+
 ### Handy Shell script for text manipulation
 
 1. remove the first columns of , delimetered files

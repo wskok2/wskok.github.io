@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Vincent Kok's Blog
-description: <br> Working as ML Ops solution architect, I like to work on new technology. The main purpose of this blog is to record down the work i have done and serve as my personal wiki.
+description: <br> Working as ML Ops solution architect, I like to work on new technology. The main purpose of this blog is to record down the work i have done and serve as my personal wiki.<br>
 
 baseurl: / #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
