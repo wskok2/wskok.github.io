@@ -14,7 +14,7 @@ REGEXP_REPLACE(col_name,r'[/+#|]', '_')
 
 2. Utilize the "execute immediate" to generate the pivot table on demand.
 
-CREATE OR REPLACE PROCEDURE `XXXX.HELPER_PROC.pivot`(table_name STRING, destination_table STRING, row_ids ARRAY<STRING>, pivot_col_name STRING, pivot_col_value STRING, max_columns INT64, aggregation STRING, optional_limit STRING)
+<code>CREATE OR REPLACE PROCEDURE `XXXX.HELPER_PROC.pivot`(table_name STRING, destination_table STRING, row_ids ARRAY<STRING>, pivot_col_name STRING, pivot_col_value STRING, max_columns INT64, aggregation STRING, optional_limit STRING)
 BEGIN
   DECLARE pivotter STRING;
   EXECUTE IMMEDIATE (
@@ -35,3 +35,4 @@ BEGIN
    ||' '||optional_limit
   );
 END;
+</code>
