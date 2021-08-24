@@ -8,9 +8,10 @@ title: "Pivot table in BQ"
 
 1. Create a helper proc to normalize column name
 
-CREATE OR REPLACE FUNCTION `XXX.HELPER_PROC.normalize_col_name`(col_name STRING) AS (
+<code>CREATE OR REPLACE FUNCTION `XXX.HELPER_PROC.normalize_col_name`(col_name STRING) AS (
 REGEXP_REPLACE(col_name,r'[/+#|]', '_')
 );
+</code>
 
 2. Utilize the "execute immediate" to generate the pivot table on demand.
 
